@@ -1,0 +1,4 @@
+github.com/magical/go-ascon v0.0.0-20250814060253-762693554ab4 h1:qVxpj7s7dYQB1SO8OrA4T4VIl/gs73oI8fgyinEIV5E=
+github.com/magical/go-ascon v0.0.0-20250814060253-762693554ab4/go.mod h1:B0N6xOH8l+HkJ6VS2/kEqlNPpPNO11MYhUJ+0F/PAnY=
+gonum.org/v1/gonum v0.16.0 h1:5+ul4Swaf3ESvrOnidPp4GZbzf0mxVQpDCYUQE7OJfk=
+gonum.org/v1/gonum v0.16.0/go.mod h1:fef3am4MQ93R2HHpKnLk4/Tbh/s0+wqD5nfa6Pnwy4E=
